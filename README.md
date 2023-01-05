@@ -1,1 +1,1 @@
-[Link do curso](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+[course link](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
